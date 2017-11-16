@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Calculate {
 public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
-	System.out.println("ÇëÊäÈëÑ§Éú³É¼¨£º");
+	System.out.println("Ã‡Ã«Ä˜Ã¤ÄŒÃ«ÅƒÂ§Ã‰ÃºÅ‚Ã‰ÅºÂ¨ÅÅŸ");
 	int a = sc.nextInt();
 if (a>=90){
 	System.out.println("A");
@@ -18,4 +18,5 @@ if (a>=90){
 	sc.close();
 }
 }
+
 
