@@ -1,9 +1,0 @@
-.请写出8种基本数据类型以及它们所占的字节数
-byte     1字节               
-short    2字节               
-int      4字节               
-long     8字节               
-char     2字节（C语言中是1字节）可以存储一个汉字
-float    4字节               
-double   8字节               
-boolean  false/true(理论上占用1bit,1/8字节，实际处理按1byte处理)      
