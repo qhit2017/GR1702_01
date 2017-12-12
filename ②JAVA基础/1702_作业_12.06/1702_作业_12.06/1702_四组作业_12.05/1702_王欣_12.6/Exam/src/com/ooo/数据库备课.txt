@@ -1,0 +1,12 @@
+数据库备课：
+
+创建一张表
+create table tb_student
+(id int primary key,
+name nvarchar(20) not null,
+age int default 20
+
+)
+
+删除一张表
+drop table tb_student
